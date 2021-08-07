@@ -5,3 +5,7 @@
 ## Author
 
 > **Patrick Annang**
+
+### Project Status
+
+> Almost done
