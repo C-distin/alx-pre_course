@@ -5,3 +5,7 @@
 ## Author
 
 > **Patrick Annang**
+
+### Status
+
+> Week 0 almost done
